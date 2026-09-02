@@ -17,24 +17,6 @@ A collection of Python programs and exercises created to practice and understand
 * Special / Magic Methods
 * Operator Overloading
 
-## 📂 Repository Structure
-
-```text
-python-oop-practice/
-│
-├── classes_objects.py
-├── constructors.py
-├── encapsulation.py
-├── abstraction.py
-├── inheritance.py
-├── polymorphism.py
-├── static_methods.py
-├── class_methods.py
-├── operator_overloading.py
-│
-└── README.md
-```
-
 ## 🎯 Purpose
 
 The purpose of this repository is to strengthen my understanding of Python OOP concepts through **hands-on coding, examples, and practice problems**.
